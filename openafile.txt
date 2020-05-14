@@ -1,0 +1,7 @@
+System.Diagnostics.Process.Start("D:/study/v.pdf")
+
+
+Menu disible
+========================
+Dim frmLogin as New Form()
+frmLogin.ShowDialog()
